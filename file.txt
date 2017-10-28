@@ -2,3 +2,4 @@ my first repository
 made some changes
 made some another changes
 let me do once again some changes
+some more changes 
